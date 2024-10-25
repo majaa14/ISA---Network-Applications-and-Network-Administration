@@ -1,12 +1,3 @@
-/*
-** VUT FIT ISA projekt
-** varianta: Monitorování DHCP komunikace
-** autor: Marie Pařilová
-** login: xparil05
-** datum: 17.10.2023
-** soubor: Readme
-*/
-
 ## Popis
 
 Tento program slouží k monitorování provozu DHCP na zadaném síťovém rozhraní nebo souboru. 
@@ -38,3 +29,7 @@ Aplikaci není nutné instalovat. Stačí stáhnout a přeložit pomocí přilo�
 ## Ukončení konzolové aplikace
 
 Ukončit konzolovou aplikaci (v terminálu) lze jakoukoli klávesou nebo Ctrl + C.
+
+## Hodnocení
+
+Projekt byl hodnocen 20/20.
